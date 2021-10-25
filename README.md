@@ -5,3 +5,6 @@ Please add the algorithms in appropriate folder according to their categories. F
 
 ### searching algorithms
 - Binary search algorithm
+
+### Sort algorithms
+- Bubble sort
